@@ -1,4 +1,4 @@
 # FRP-RC BEAM SHEAR STRENGTH PREDICTION
 ## User Interface
-![bolt_connection](https://user-images.githubusercontent.com/43680716/93233850-61259300-f79d-11ea-9a7b-87a0ac2d646a.png)
+https://github.com/rezakarim1585/frprcbeam-shearstrength/blob/main/pic1.png
 
